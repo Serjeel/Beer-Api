@@ -1,0 +1,47 @@
+.header {
+    background: url("../../images/Header2.jpg") no-repeat center;
+    background-size: cover;
+    height: 240px;
+}
+
+.sighboard {
+    width: 380px;
+}
+
+.beer-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url("../../images/MainBackground3.jpg");
+    background-size: contain;
+}
+
+.comparison-button {
+    cursor: pointer;
+    width: 150px;
+    height: 60px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-weight: 600;
+    background: url("../../images/Tablet.png") no-repeat left;
+    background-size: cover;
+}
+
+.beer-items-block {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.beer-shelf {
+    width: 90%;
+    margin-top: -70px;
+    z-index: 1;
+}

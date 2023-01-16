@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  background: url("./images/Header2.jpg");
+  background-size: contain;
+  height: 240px;
+}

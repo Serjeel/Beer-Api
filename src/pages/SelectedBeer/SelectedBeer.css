@@ -1,0 +1,28 @@
+.selected-beer {
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    background: url("../../images/DescriptionImage.jpg") no-repeat left;
+    background-size: contain;
+    overflow: hidden;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    max-width: 300px;
+    min-height: 380px;
+    max-height: 550px;
+    position: absolute;
+    top: 83%;
+    left: 60%;
+    background-color: rgb(151, 142, 142);
+    border: 10px rgb(14, 8, 2) solid;
+    border-radius: 15px;
+}
+
+.line {
+    text-align: left;
+    padding: 0 10px;
+}
