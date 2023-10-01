@@ -1,4 +1,6 @@
-The design of this project is not adaptive and is designed for a screen resolution of 1368
+# The design of this project is not adaptive and is designed for a screen resolution of 1368
+
+
 
 # Getting Started with Create React App
 
