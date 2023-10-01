@@ -1,3 +1,5 @@
+The design of this project is not adaptive and is designed for a screen resolution of 1368
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
